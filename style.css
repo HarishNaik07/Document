@@ -1,0 +1,14 @@
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
+
+.box{
+height:50px;
+width:50px;
+border:1px solid black;
+}
